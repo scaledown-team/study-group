@@ -77,3 +77,8 @@
   - Security of Networks running on Edge Deployed Hardware
     - Cold Boot Attacks
     - Side Channel Attacks
+    
+- Day 10: Edge Hardware: TinyML on an Arduino
+  - Introduction to the Arduino
+  - Arduino Internals: How does it work?
+  - TinyML on Arduino: [link](https://twitter.com/ElectromakerIO/status/1341782133656969216?s=20)
