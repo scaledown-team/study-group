@@ -43,7 +43,14 @@
     - How much does quantization improve performance?
   - Homework: Quantize a network using OpenVINO and measure its performance
 
-- Day 4: Pruning
+-Day 4: Edge Hardware
+  - Introduction to the Intel Neural Compute Stick 2 (NCS)
+  - NCS Internals: How does it work?
+  - How to use OpenVINO to interface with the NCS
+  - Using Multiple NCS devices
+  - Homework: Compare the Latency and Throughput of NCS, CPU and GPU
+  
+- Day 5: Pruning
   - What is Pruning?
   - Different Pruning Methods
   - How does Pruning improve performance at the edge?
@@ -53,8 +60,20 @@
     - How much does Pruning improve performance?
   - Homework: Prune a network and measure its performance
 
-- Day 5: Research Day - Early Exits in Neural Networks
+- Day 6: Research Day - Early Exits in Neural Networks
   - Read and discuss a paper on Early Exits
 
-- Day 6: Project 1 - Train and Deploy a model at the edge
-  - 
+- Day 7: Edge Hardware: EdgeTPU and EdgeTPU Accelerator
+  - Introduction to the EdgeTPU
+  - EdgeTPU Internals: How does it work?
+  - How to use TFLite to interface with the NCS
+  - Homework: Compare the Latency and Throughput of EdgeTPU and the EdgeTPU accelerator
+  
+- Day 8: Project 1 - Train and Deploy a model at the edge
+
+- Day 9: Security and Privacy in Edge Computing
+  - Security of Hardware
+  - Security of Data
+  - Security of Networks running on Edge Deployed Hardware
+    - Cold Boot Attacks
+    - Side Channel Attacks
