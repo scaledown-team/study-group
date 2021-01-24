@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-- Day 1: Introduction to TinyML
+- Day 1: Introduction to TinyML (13th Feb, 2021. 9am SGT)
   - What is TinyML?
   - Why TinyML is important?
   - TinyML Hardware
@@ -20,7 +20,7 @@
   - General information about this study group
   - Homework: Find an algorithm/hardware/framework not mentioned today
 
-- Day 2: Basics of Running Neural Networks at the Edge
+- Day 2: Basics of Running Neural Networks at the Edge (27th Feb, 2021. 9am SGT)
   - Edge Performance Metrics
     - Latency
     - Throughput
@@ -31,7 +31,7 @@
   - Which metrics to optimize your network for?
   - Homework: Read a paper that compares performance of different networks, hardwares, frameworks
 
-- Day 3: Quantization
+- Day 3: Quantization (13th March, 2021. 9am SGT)
   - What is Quantization?
   - Different Quantization Specs
     - Weight Quantization
@@ -43,14 +43,14 @@
     - How much does quantization improve performance?
   - Homework: Quantize a network using OpenVINO and measure its performance
 
--Day 4: Edge Hardware
+-Day 4: Edge Hardware (27th March, 2021. 9am SGT)
   - Introduction to the Intel Neural Compute Stick 2 (NCS)
   - NCS Internals: How does it work?
   - How to use OpenVINO to interface with the NCS
   - Using Multiple NCS devices
   - Homework: Compare the Latency and Throughput of NCS, CPU and GPU
   
-- Day 5: Pruning
+- Day 5: Pruning (10th April, 2021. 9am SGT)
   - What is Pruning?
   - Different Pruning Methods
   - How does Pruning improve performance at the edge?
@@ -60,16 +60,16 @@
     - How much does Pruning improve performance?
   - Homework: Prune a network and measure its performance
 
-- Day 6: Research Day - Early Exits in Neural Networks
+- Day 6: Research Day - Early Exits in Neural Networks (24th April, 2021. 9am SGT)
   - Read and discuss a paper on Early Exits
 
-- Day 7: Edge Hardware: EdgeTPU and EdgeTPU Accelerator
+- Day 7: Edge Hardware: EdgeTPU and EdgeTPU Accelerator (8th May, 2021. 9am SGT)
   - Introduction to the EdgeTPU
   - EdgeTPU Internals: How does it work?
   - How to use TFLite to interface with the NCS
   - Homework: Compare the Latency and Throughput of EdgeTPU and the EdgeTPU accelerator
   
-- Day 8: Project 1 - Train and Deploy a model at the edge
+- Day 8: Project 1 - Train and Deploy a model at the edge (22nd May, 2021. 9am SGT)
 
 - Day 9: Security and Privacy in Edge Computing
   - Security of Hardware
