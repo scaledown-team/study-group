@@ -1,5 +1,19 @@
 # TinyML Study Group
 
+<tr>
+<td style="border: none;" align="left" width="20%"><a href="https://docs.google.com/presentation/d/1ape9q0Ua-RRfEOHR9BnFjYBzY42VOTuGNkZlhiXkDbE/edit?usp=sharing"><img alt="Tivia Tuesday" align="left" src="images/Hardware Devices.jpeg "/>&nbsp;</td>
+<td colspan="3"><b>Week 7: Hardware Devices</b> 
+  <br><br>
+  - How can I get Hardware Devices?
+  - What to Look for while Purchasing Hardware Devices?
+  - Hackster.io
+  - DEMOS!!
+  - Paper Reading
+  - What Next?
+
+  <br><br> 
+<em>- Paper Reading <a href="https://arxiv.org/pdf/1810.04150.pdf"> </em></td> 
+</tr>
 ## Syllabus
 
 - Day 1: Introduction to TinyML (13th Feb, 2021. 9am SGT)
