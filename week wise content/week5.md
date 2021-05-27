@@ -1,5 +1,5 @@
 
-## Week 5: Choosing the Right Hardware (April 24th)
+## Week 5: Choosing the Right Hardware (April 24th 11AM EST)
   - Hardware should not be an afterthought
   - CPU and GPUs
   - FPGA
