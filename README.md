@@ -6,6 +6,10 @@ Welcome! This repo contains content, code & youtube recording for the Introducti
 
 #### Resources:
 <p>
+  
+| | |
+| ----------- | ----------- |
+|<a href="week_wise_content/week1.md"><img alt="week_wise_content/week2.md" width="400" src="images/week1.png"></a>|**Introduction to TinyML** <br/><br/> This is the Introduction to TinyML Series.In this first talk, we will go over the the field of TinyML and the contents of the study group<br/><br/>|
 
 | | |
 | ----------- | ----------- |
